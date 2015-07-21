@@ -1,4 +1,4 @@
 # Test Project
 
 This is a test project.
-The intend is make experiment with different technologies
+It is used to make experiment with different technologies
